@@ -6,6 +6,6 @@ pytest
 Requests
 scikit_learn
 scipy
-torch
+torch==1.13.1+cu117
 tqdm
 transformers
